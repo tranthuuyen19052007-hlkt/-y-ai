@@ -1,0 +1,5 @@
+# Minh An AI Agent - Zero External Dependencies
+# He thong su dung 100% thu vien tieu chuan cua Python (standard library):
+# - http.server, socketserver
+# - json, urllib, re, os, datetime
+
